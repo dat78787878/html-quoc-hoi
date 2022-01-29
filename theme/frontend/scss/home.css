@@ -1,0 +1,196 @@
+.header {
+  background-color: brown; }
+  .header .header-banner img {
+    background-size: cover;
+    width: 100vw; }
+  .header .header-menu ul li {
+    color: white;
+    padding-left: 20px; }
+  .header .header-menu .input-group {
+    padding-left: 40px; }
+
+.middle {
+  background-color: #e6e6e6; }
+  .middle .middle-list {
+    background-color: #fff; }
+    .middle .middle-list-banner img {
+      background-size: cover;
+      width: 100%; }
+    .middle .middle-list-items .boxContainer {
+      padding-bottom: 8px; }
+      .middle .middle-list-items .boxContainer .boxOrange {
+        padding-top: 0px;
+        margin: 0; }
+        .middle .middle-list-items .boxContainer .boxOrange .content {
+          background: url(../images/cat-org-iten.gif) repeat-y top left #f2d3bf; }
+          .middle .middle-list-items .boxContainer .boxOrange .content .vMenuLeft {
+            list-style: none;
+            padding: 0px;
+            margin: 0px; }
+            .middle .middle-list-items .boxContainer .boxOrange .content .vMenuLeft li a:link {
+              display: block;
+              background: url(../images/bg_left.gif) no-repeat top left;
+              padding: 6px 10px 9px 28px;
+              font: normal 10pt 'Roboto Condensed', Arial, Helvetica, sans-serif;
+              color: #333; }
+    .middle .middle-list .card .card-body {
+      padding: 10px; }
+    .middle .middle-list .mCSB_container {
+      border: 1px solid rgba(0, 0, 0, 0.125);
+      border-radius: 0.25rem; }
+      .middle .middle-list .mCSB_container li {
+        padding: 4px 5px 5px 15px;
+        background: url(../images/arr-red1.gif) no-repeat 5px 10px;
+        text-align: justify;
+        line-height: 1.5;
+        border-bottom: 1px solid #FFF;
+        list-style: none;
+        color: #000; }
+        .middle .middle-list .mCSB_container li a {
+          color: #000;
+          font-size: 12px; }
+    .middle .middle-list-img-items {
+      padding-right: 0px; }
+    .middle .middle-list-img img {
+      width: 95%; }
+    .middle .middle-list-items-top {
+      background: url(../images/body-top-new-bg.gif) repeat-y top left; }
+      .middle .middle-list-items-top div {
+        padding: 6px 5px 14px 35px; }
+        .middle .middle-list-items-top div a {
+          font: bold 10pt 'Roboto Condensed',Arial,Helvetica,sans-serif;
+          color: #E62329;
+          text-decoration: none;
+          text-shadow: 0px 1px 1px #ccc;
+          text-transform: uppercase; }
+    .middle .middle-list-items-mid-card {
+      display: flex; }
+      .middle .middle-list-items-mid-card img {
+        width: 30%; }
+      .middle .middle-list-items-mid-card-title {
+        font-size: 14px;
+        font-weight: bold;
+        padding-left: 5px;
+        text-align: justify; }
+    .middle .middle-list-items-mid-text {
+      font-size: 14px;
+      border-bottom: 2px solid #e6e6e6;
+      text-align: justify; }
+    .middle .middle-list-items-bottom ul {
+      list-style: none;
+      padding: 0px;
+      margin: 0px; }
+      .middle .middle-list-items-bottom ul li {
+        background: url(../images/arr-red.gif) no-repeat 5px 10px;
+        padding: 5px 5px 5px 15px;
+        text-align: justify; }
+        .middle .middle-list-items-bottom ul li a {
+          font-size: 12px;
+          color: #222;
+          text-decoration: none; }
+        .middle .middle-list-items-bottom ul li span {
+          font-size: 11px;
+          color: #666;
+          font-style: italic; }
+    .middle .middle-list-items-star {
+      background: url(../images/box-news-top-bg.gif) no-repeat top left;
+      padding-left: 30px; }
+      .middle .middle-list-items-star div {
+        background: url(../img/box-news-top-bg.gif) no-repeat top right;
+        padding: 7px 10px 7px 0; }
+        .middle .middle-list-items-star div a {
+          font-size: 12px;
+          font-weight: bold;
+          color: #E82C39;
+          text-transform: uppercase;
+          text-decoration: none; }
+    .middle .middle-list-items-law ul {
+      clear: both;
+      display: block;
+      list-style: none outside none;
+      margin: 0;
+      padding: 0;
+      width: 100%; }
+      .middle .middle-list-items-law ul li {
+        border-bottom: 1px dotted #CCCCCC;
+        clear: both;
+        display: inline-block;
+        width: 100%; }
+        .middle .middle-list-items-law ul li .item {
+          padding: 10px; }
+          .middle .middle-list-items-law ul li .item .title {
+            background: url(../images/arrBox02.gif) no-repeat scroll 5px 8px #F1F1F1;
+            border: 1px solid #DEDEDE;
+            padding: 5px 0 5px 18px;
+            text-align: justify; }
+            .middle .middle-list-items-law ul li .item .title a {
+              color: #131E32;
+              font-size: 13px;
+              text-decoration: none;
+              font-weight: bold; }
+          .middle .middle-list-items-law ul li .item .left {
+            float: left;
+            padding-right: 1%;
+            width: 100%; }
+            .middle .middle-list-items-law ul li .item .left .des {
+              color: #222222;
+              font-size: 13px;
+              min-height: 40px;
+              padding: 5px 0;
+              text-align: justify; }
+          .middle .middle-list-items-law ul li .item .right {
+            padding: 5px 0;
+            display: none; }
+
+.box-shadow {
+  box-shadow: 5px 0px #eeeeee; }
+
+footer {
+  background-color: #e6e6e6; }
+  footer .footer-link {
+    padding-top: 5px;
+    width: 100%;
+    display: inline-block;
+    clear: both; }
+    footer .footer-link-list {
+      background: url(../images/footer-bg.png) no-repeat top center;
+      padding: 0px 10px 20px 15px;
+      background-size: cover; }
+      footer .footer-link-list ul {
+        padding: 0px;
+        margin: 0px;
+        list-style: none;
+        width: 100%;
+        display: inline-block;
+        clear: both; }
+        footer .footer-link-list ul li {
+          background: url(../images/footer-header-link.gif) no-repeat top left;
+          float: left;
+          width: 22.0512%;
+          padding: 5px 0px 8px 28px; }
+          footer .footer-link-list ul li a {
+            color: #333;
+            text-decoration: none; }
+          footer .footer-link-list ul li ul {
+            padding-top: 10px; }
+            footer .footer-link-list ul li ul li {
+              background: none;
+              width: 100%;
+              clear: both;
+              display: inline-block;
+              padding: 4px 0px 4px 0px; }
+              footer .footer-link-list ul li ul li a {
+                color: #333;
+                font-size: 12px;
+                text-decoration: none; }
+    footer .footer-link-content {
+      text-align: center;
+      padding: 10px 10px 15px 10px;
+      background: url(../images/bottom-footer-bg.png) no-repeat 50% 50%; }
+      footer .footer-link-content .title {
+        text-transform: uppercase;
+        font-weight: bold; }
+      footer .footer-link-content p {
+        color: #666; }
+
+/*# sourceMappingURL=home.css.map */
